@@ -1,0 +1,11 @@
+v: 0
+run: 20261019T054413Z-release-d8e6
+repo: zkorus/orus-test-release-cb95
+role: release
+item: "#4"
+machine: m-98736717
+attempt: 1
+state: running
+resumes: null
+started: 2026-10-19T05:44:13Z
+role_commit: e99c48979208db5316db7dd8a6e16041514eacb5
