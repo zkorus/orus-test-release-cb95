@@ -1,0 +1,13 @@
+v: 0
+orus: 0.0.0
+gate: node --test
+test_targets:
+  - name: lib
+    language: javascript
+    path: .
+    test: node --test
+roles:
+  release: { model: haiku }
+release:
+  version_files: [package.json]
+max_cost_usd: 1
